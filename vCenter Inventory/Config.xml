@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+  <vmhost>10.82.44.132</vmhost>
+  <vmhostuserid>QA_admin</vmhostuserid>
+  <vmhostpassword>Approva1@</vmhostpassword>
+  <vmcommonuserid>Administrator</vmcommonuserid>
+  <vmcommonpassword>approva1@</vmcommonpassword>
+</settings>
